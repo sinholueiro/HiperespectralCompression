@@ -1,3 +1,0 @@
-/DATA/Repos/HiperespectralCompression/Source/Build/build/CMakeFiles/rebuild_cache.dir
-/DATA/Repos/HiperespectralCompression/Source/Build/build/CMakeFiles/ImageCompressionMerge.dir
-/DATA/Repos/HiperespectralCompression/Source/Build/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,5 @@
+Execute "HyperspectralCompression" binary in the Release folder to run the program.
+
+If you want to compile the program, run the script "compile.sh" in the Source folder. To run the compiled software, execute the binary "HyperspectralCompression" at "./Source/Build".
+
+An example image called "input.raw" is located at "./ImageExample". It's properties are 614x512x224 dimensions, signed 16 bit data, BIP structure and Big Endian. 
